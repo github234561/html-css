@@ -1,0 +1,32 @@
+*{
+margin:15px;
+
+}
+
+
+h1,h3
+{
+color:#2424a7;
+font-family:helvetica,serif;
+
+}
+
+
+h1{
+font-size: 45px;
+}
+
+h3{
+    font-size=30px;
+}
+
+body{
+font-size: 18px
+}
+
+.main-text{text-align: justify}
+
+.table1 {
+    width: 100px;
+    height: 200px;
+}
